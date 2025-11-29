@@ -1,7 +1,8 @@
 quixstreams
 requests
 pandas
-duckdb
-streamlit
+redis
 python-dotenv
 pytrends
+scikit-learn
+streamlit
