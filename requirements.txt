@@ -1,0 +1,7 @@
+quixstreams
+requests
+pandas
+duckdb
+streamlit
+python-dotenv
+pytrends
