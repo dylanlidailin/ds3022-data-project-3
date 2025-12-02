@@ -72,7 +72,7 @@ Three datasets form a 360-degree franchise intelligence model:
 ### Lifecycle Classification (“The Peaker Logic”)
 Categorizes franchises as:
 
-![](sample/demo1.png
+![](demo1.png)
 
 - **Early Peakers** – viral at launch, fade quickly  
 - **Mid Peakers** – build momentum over seasons  
@@ -81,7 +81,7 @@ Categorizes franchises as:
 ### Volatility Index
 Box-plot statistics identify:
 
-![](sample/demo2.png)
+![](demo2.png)
 
 - **High volatility:** Event-driven spikes  
 - **Low volatility:** Steady “comfort TV” patterns  
