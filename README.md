@@ -1,5 +1,5 @@
 # Franchise Valuation Engine: Winning the Streaming Wars
-### DS3022 Capstone Project
+### DS3022 Project 3
 
 A real-time market intelligence dashboard that quantifies the value of entertainment franchises by combining **search demand velocity (Google Trends)** with **historical brand equity (IMDb)**.
 
