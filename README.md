@@ -5,6 +5,12 @@ A real-time market intelligence dashboard that quantifies the value of entertain
 
 ---
 
+## Team
+
+Team name: Redis on the Shore
+
+Team member: Dailin Li
+
 ## The Business Problem
 
 In the modern “Streaming Wars,” content is king—but valuation remains opaque. Executives must decide:
